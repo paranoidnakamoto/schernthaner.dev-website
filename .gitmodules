@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:paranoidnakamoto/schernthaner.dev-website-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:paranoidnakamoto/schernthaner.dev-website-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = https://github.com/JhonnyJason/toolset.git
